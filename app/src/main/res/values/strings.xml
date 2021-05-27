@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Planig Tools UI</string>
+    <string name="planing_tools">Planing Tools</string>
+    <string name="checklist">CheckList</string>
+    <string name="guests_list">Guests List</string>
+    <string name="guest_landing_page">Guest Landing Page</string>
+    <string name="manage_quotations">Manage Quotations</string>
+    <string name="selected_vendors">Selected Vendors</string>
+</resources>
